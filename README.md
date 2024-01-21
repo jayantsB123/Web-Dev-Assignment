@@ -43,11 +43,11 @@ The GitHub Public Repo Viewer is a user-friendly website developed as part of th
 ### Screenshots
 ![Screenshot 2024-01-21 235524](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/454ab4dd-7bac-4e12-8efb-6b0bfc314655)
 ![Screenshot 2024-01-21 235543](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/2a18e2bf-bea3-4fe9-a115-967821823eab)
-![Screenshot 2024-01-21 235551](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/7afbd2be-a805-4fa4-966c-0cb525b501af)
+![Screenshot 2024-01-22 000733](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/8dadf298-4de5-45d0-936b-c2a7c7c07efc)
 ![Screenshot 2024-01-21 235615](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/f0d33d7e-9480-4036-aa56-c37c7ae10f40)
 ![Screenshot 2024-01-21 235619](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/8933a8b0-7560-487e-92fe-8f9fd469a376)
 ![Screenshot 2024-01-21 235624](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/16a754c5-b8ee-4752-9008-d6df76f91a78)
-![Screenshot 2024-01-21 235635](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/2f610817-16a5-4161-9e9e-1d46373e480d)
+![Screenshot 2024-01-22 000756](https://github.com/jayantsB123/Web-Dev-Intern-Fyle-Assignment/assets/97082996/514f493a-3be4-4a10-a307-a7fa8648613d)
 
 
 ### Demo
