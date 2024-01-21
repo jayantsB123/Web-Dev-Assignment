@@ -63,8 +63,8 @@ https://jayantsb123.github.io/Web-Dev-Intern-Fyle-Assignment/
 
 ### Author
 
-Jayant Singh Bhadauria
-bhadauria.jayant07@gmail.com
+Jayant Singh Bhadauria <br>
+bhadauria.jayant07@gmail.com <br>
 7017080145
 
 ### License
