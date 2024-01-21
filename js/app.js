@@ -1,7 +1,7 @@
 "use strict";
 
 import {
-  fetchData
+  fetchData, getAllRepoData
 } from "./api.js";
 import {
   numberToKilo
@@ -290,10 +290,12 @@ const updateRepository = function () {
   filterdiv.style.display = 'block';
   footerbtndiv.style.display = 'block';
 
-  fetchData(`${repoUrl}?per_page=100`, function (data) {
+  getAllRepoData(githubUsername, function (data) {
     $repoPanel.innerHTML = `<h2 class="sr-only">Repositories</h2>`;
     forkedRepos = data.filter((item) => item.fork);
     const repositories = data.filter((i) => !i.fork);
+
+    console.log(data.length);
 
     // Handle pagination
     var arrLength = repositories.length;
