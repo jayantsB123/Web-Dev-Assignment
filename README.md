@@ -51,7 +51,7 @@ The GitHub Public Repo Viewer is a user-friendly website developed as part of th
 
 
 ### Demo
-https://jayantsb123.github.io/Web-Dev-Intern-Fyle-Assignment/
+https://jayantsb123.github.io/Web-Dev-Assignment/
 
 ### Technologies Used
 
