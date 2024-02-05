@@ -1,8 +1,8 @@
-# FYLE ASSIGNMENT - GitHub Public Repo Viewer
+#GitHub Public Repo Viewer
 
 ## Project Description
 
-The GitHub Public Repo Viewer is a user-friendly website developed as part of the Web Development Internship assignment at FYLE. The primary goal is to facilitate the exploration of public repositories for any specified GitHub user. Leveraging HTML, CSS, and JavaScript, with additional utilization of Bootstrap and jQuery, the project seamlessly integrates server-side pagination, exhibiting 10 repositories per page by default, with an option to display up to 100 repositories per page.
+The GitHub Public Repo Viewer is a user-friendly website developed as part of the Web Development assignment. The primary goal is to facilitate the exploration of public repositories for any specified GitHub user. Leveraging HTML, CSS, and JavaScript, with additional utilization of Bootstrap and jQuery, the project seamlessly integrates server-side pagination, exhibiting 10 repositories per page by default, with an option to display up to 100 repositories per page.
 
 ### Features
 
